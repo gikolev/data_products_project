@@ -1,0 +1,66 @@
+---
+title: "Sample Data"
+author: "George Kolev"
+date: "May 27, 2016"
+output: html_document
+---
+
+The following sample data points can be used to compare the Z-scores of two companies in very different states of financial health.
+<br>
+<br>
+
+#### Apple Inc (AAPL)
+<font size="1.5">
+Year ending Sep 26, 2015, except market value of equity, which is calculated as of May 27, 2016. All numbers in $ millions
+</font>
+
+<style>
+table, th, td {
+        border: 1px solid #ddd;
+        border-collapse: collapse;
+}
+th, td {
+        padding: 5px;
+}
+tr:nth-child(even) {background-color: #f2f2f2}
+th {
+    background-color: #003153;
+    color: white;
+}
+
+.column1 {width: 75%;}
+.column2 {width: 25%;}
+</style>
+
+<table style="width:50%">
+  <tr> <th class="column1">Metric</th> <th class="column2">Value</th </tr>
+  <tr> <td>Working Capital</td> <td>8768</td>
+  <tr> <td>Total Assets</td> <td>290479</td>
+  <tr> <td>Retained Earnings</td> <td>92284</td>
+  <tr> <td>EBIT</td> <td>72515</td>
+  <tr> <td>Market Value of Equity</td> <td>554000</td>
+  <tr> <td>Book Value of Total Liabilities</td> <td>171124</td>
+  <tr> <td>Sales / Revenue</td> <td>233715</td>
+</table>
+<br>
+
+
+#### Chesapeake Energy Corporation (CHK)
+<font size="1.5">
+Year ending Dec 31, 2015, except market value of equity, which is calculated as of May 27, 2016. All numbers in $ millions  
+</font>
+
+<table style="width:50%">
+  <tr> <th class="column1">Metric</th> <th class="column2">Value</th </tr>
+  <tr> <td>Working Capital</td> <td>-1205</td>
+  <tr> <td>Total Assets</td> <td>17357</td>
+  <tr> <td>Retained Earnings</td> <td>-13202</td>
+  <tr> <td>EBIT</td> <td>-18781</td>
+  <tr> <td>Market Value of Equity</td> <td>2800</td>
+  <tr> <td>Book Value of Total Liabilities</td> <td>14960</td>
+  <tr> <td>Sales / Revenue</td> <td>12764</td>
+</table>
+<br>
+<br>
+<br>
+

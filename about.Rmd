@@ -1,0 +1,14 @@
+---
+title: "About the Altman Z-Score Formula"
+author: "George Kolev"
+date: "May 27, 2016"
+output: html_document
+---
+
+The Altman Z-score formula is widely used for assessing the health of a public company and predicting the likelihood of financial distress or bankruptcy within 2 years, using data from the company's balance sheet and income statement. <br>
+
+The formula was published in 1968 by Edward Altman in a *Journal of Finance* paper titled "Financial Ratios, Discriminant Analysis and the Prediction of Corporate Bankruptcy." Altman applied discriminant analysis to a dataset of 66 public manufacturing firms with assets of over $1 million, half of which had filed for bankruptcy. In this initial dataset, the resulting formula had an accuracy of 72% in predicting bankruptcy two years before the event, with a Type II error (false negatives) of 6%. Altman subsequently published variations of the formula for non-manufacturing as well as privately held companies.
+
+Click [here](http://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.1968.tb00843.x/full) to read Altman's 1968 paper.
+
+
